@@ -1,0 +1,11 @@
+.homepage {
+    width: 88vw;
+    height: 300vh; /* 100vh is the whole screen, setting to 300, 100 per "page" */
+}
+
+.rectangle {
+    display: inline-block; /*what the fuck does this mean */
+    width: 88vw;
+    height: 25vh;
+    background: #693A22;
+}
