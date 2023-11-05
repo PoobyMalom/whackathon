@@ -1,8 +1,15 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import React, { useEffect, useState } from 'react';
+import Axios from 'axios';
+
+interface Shoe {
+    id: number;
+    name: string;
+}
+
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement

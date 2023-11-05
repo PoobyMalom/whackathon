@@ -1,0 +1,147 @@
+{
+  "recipes": {
+    "france": {
+      "_id": {
+        "$oid": "6547baf9635f412dd6f7c5f8"
+      },
+      "name": "Herbs de Provence",
+      "image": "https://images.media-allrecipes.com/userphotos/560x315/1060415.jpg",
+      "originalRecipe": "https://allrecipes.com/recipe/223272/herbs-de-provence/",
+      "ingredients": [
+        [
+          "rosemary",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "fennel seed",
+          "1",
+          "tablespoon",
+          null
+        ],
+        [
+          "savory",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "thyme",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "basil",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "marjoram",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "lavender flower",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "italian parsley",
+          "2",
+          "tablespoons",
+          null
+        ],
+        [
+          "oregano",
+          "1",
+          "tablespoon",
+          null
+        ],
+        [
+          "tarragon",
+          "1",
+          "tablespoon",
+          null
+        ],
+        [
+          "bay powder",
+          "1",
+          "teaspoon",
+          null
+        ]
+      ],
+      "instructions": "1.\tGrind rosemary and fennel seed in a spice grinder; transfer to a mixing bowl. Stir savory, thyme, basil, marjoram, lavender, parsley, oregano, tarragon, and bay powder with the rosemary and fennel. Store in an air-tight container between uses. \n---------------------------------------------------------------------------",
+      "cuisine": "French",
+      "cookTime": null,
+      "culture": "Herbes de Provence holds cultural significance as it is a traditional blend of herbs originating from the Provence region in France. It not only adds distinct flavor to dishes, but also represents the culinary heritage and essence of the Provençal cuisine, reflecting the region's agricultural traditions and fragrant landscape."
+    },
+    "mexico": {
+      "_id": {
+        "$oid": "6547bb13635f412dd6f7c5f9"
+      },
+      "name": "Mexican Enchilada Sauce",
+      "image": "/recipedb/static/recipe_temp.jpg",
+      "originalRecipe": "https://www.geniuskitchen.com/recipe/mexican-enchilada-sauce-375372",
+      "ingredients": [
+        [
+          "chili powder",
+          "3",
+          "tablespoons",
+          null
+        ],
+        [
+          "flour",
+          "3",
+          "tablespoons",
+          null
+        ],
+        [
+          "cocoa powder",
+          "1",
+          "teaspoon",
+          null
+        ],
+        [
+          "garlic salt",
+          "1/2",
+          "teaspoon",
+          null
+        ],
+        [
+          "oregano",
+          "1",
+          "teaspoon",
+          null
+        ],
+        [
+          "cumin",
+          "1/4",
+          "teaspoon",
+          null
+        ],
+        [
+          "water",
+          "3",
+          "cups",
+          null
+        ],
+        [
+          "tomato sauce",
+          "1",
+          "can",
+          null
+        ]
+      ],
+      "instructions": "1.\tCombine all dry ingredients in a small bowl. \n2.\tStirring constantly, slowly add enough of the water to make a thin paste. \n3.\tPour into pan and add rest of water. \n4.\tCook over medium heat, stirring constantly, until mixture thickens. \n5.\tStir in tomato sauce. \n6.\tUse in your favorite enchilada recipe. \n7.\tThe amounts on the ingredients are very flexible. \n---------------------------------------------------------------------------",
+      "cuisine": "Mexican",
+      "cookTime": null,
+      "culture": "Mexican Enchilada Sauce holds cultural significance as it is a staple in traditional Mexican cuisine, symbolizing the rich flavors and vibrant spiciness that characterize Mexican dishes. It not only represents the culinary diversity and heritage of Mexico, but also serves as a source of pride and identity for Mexican people worldwide."
+    },
+    "japan" : {"_id":{"$oid":"6547bc5913d63b53181294b4"},"name":"Simple Japanese-Style Okra","image":"/recipedb/static/recipe_temp.jpg","originalRecipe":"https://www.geniuskitchen.com/recipe/simple-japanese-style-okra-469877","ingredients":[["okra","8","ounces",null],["soy sauce",null,null,null],["bonito flake",null,null,null]],"instructions":"1.\tBring a large pot of lightly salted water to a rapid boil. \n2.\tWash the okra thoroughly. \n3.\tPut whole okra into rapidly boiling water and cook for 2 minutes. \n4.\tDrain. \n5.\tWhen okra is cool enough to handle, cut in thin slices and place in serving dishes, discarding the stems. \n6.\tServe topped with bonito flakes and a little soy sauce. \n---------------------------------------------------------------------------","cuisine":"Japanese","cookTime":null,"culture":"Simple Japanese-Style Okra holds cultural significance as a traditional dish in Japan, highlighting the simplicity and appreciation for natural flavors in Japanese cuisine. It also showcases the respect for seasonal ingredients and the importance of preserving the inherent taste of vegetables in Japanese culinary culture."}
+  }
+}

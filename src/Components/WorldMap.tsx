@@ -4,6 +4,9 @@ import 'leaflet/dist/leaflet.css';
 import worldGeoJSON from '../custom.json';
 import L from 'leaflet';
 import image from "../cd_pirated.png"
+import france from "../franceimage.jpeg"
+import japan from "../Japanese-Style-Seasoned-Okra-Vegan.jpg"
+import mexico from "../Easy-Red-Enchilada-Sauce-spoon.jpg"
 import './WorldMap.css'
 import {useMapContext} from "./MapContext";
 
@@ -18,6 +21,21 @@ interface CountryType {
 const pirateicon = L.icon({
     iconUrl: image,
     iconSize: [16, 16]
+})
+
+const FranceIcon = L.icon({
+    iconUrl: france,
+    iconSize: [32, 32]
+})
+
+const JapanIcon = L.icon({
+    iconUrl: japan,
+    iconSize: [32, 32]
+})
+
+const MexicoIcon = L.icon({
+    iconUrl: mexico,
+    iconSize: [32, 32]
 })
 
 interface MarkerData {
@@ -71,7 +89,11 @@ function WorldMap() {
                         data={worldGeoJSON}
                         style={style}
                         onEachFeature={onEachCountry as any} />
+                <Marker position={[46, 2]} icon={FranceIcon}></Marker>
+                <Marker position={[36, 138]} icon={JapanIcon}></Marker>
+                <Marker position={[23, -102]} icon={MexicoIcon}></Marker>
             </MapContainer>
+
         </div>
     );
 }
